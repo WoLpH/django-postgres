@@ -40,6 +40,21 @@ The features made available here replace some of the following practices:
 -  Sequences represented by a one-to-many, with an `order` integer field.
 -  Complex types represented by JSON in a text field.
 
+Install
+-------
+
+To install the current release using pip:
+
+```sh
+pip install django-postgres
+```
+
+To Install from the git repository using pip:
+
+```sh
+pip install 'git+https://github.com/zacharyvoase/django-postgres.git'
+```
+
 Example
 -------
 
